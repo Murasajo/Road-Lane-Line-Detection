@@ -57,7 +57,7 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-1. Open the Streamlit application in your browser.
+1. Open the Streamlit application/url in your browser.
 2. Upload a video file using the file uploader interface.
 3. The application will process the video and display both the original and lane-detected video side by side.
 
