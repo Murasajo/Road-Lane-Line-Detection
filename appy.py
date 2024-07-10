@@ -120,7 +120,7 @@ def video_processing(input_path, output_path):
 
 
 # Deploy on streamlit
-st.title("Load Lane Line Detection")
+st.title("Road Lane-Line Detection")
 uploaded_file = st.file_uploader("Upload a video", type=["mp4", "avi", "mov", "mkv"])
 
 
