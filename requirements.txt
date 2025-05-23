@@ -4,3 +4,5 @@ pillow
 moviepy
 opencv-python
 matplotlib
+imageio-ffmpeg
+decorator
