@@ -1,8 +1,8 @@
 streamlit
 numpy
 pillow
-moviepy
 opencv-python
 matplotlib
+moviepy[editor]
 imageio-ffmpeg
 decorator
